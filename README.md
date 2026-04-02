@@ -220,4 +220,4 @@ Em produção, o frontend registra `public/service-worker.js` e permite instala�
 
 - O backend depende de `MONGODB_URI`; sem isso a API não sobe.
 - O projeto ainda mantém rotas e rotinas de compatibilidade para dados legados.
-- O arquivo principal de scripts é [`package.json`](/f:/repo/package.json). O [`root-package.json`](/f:/repo/root-package.json) parece ser um artefato anterior.
+- O arquivo principal de scripts é [`package.json`](/f:/repo/package.json).
