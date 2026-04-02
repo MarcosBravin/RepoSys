@@ -1,0 +1,88 @@
+Open Core License v1.0
+
+Copyright (c) 2026 Marcos Bravin
+Contact: marcosmv022@gmail.com
+
+1. Purpose
+
+This license governs the use, copying, modification, and distribution of this repository and its Community Components under an open core model.
+
+Under this model:
+
+- the source code made available in this repository may be used, studied, modified, and shared under the terms below;
+- premium, enterprise, private, hosted, white-label, or otherwise proprietary components, services, modules, integrations, or operational assets that are not published in this repository remain exclusively reserved to the copyright holder.
+
+2. Definitions
+
+"Repository" means the source code, files, assets, and documentation made publicly available in this project.
+
+"Community Components" means all files published in this repository, except items explicitly identified as third-party or otherwise excluded by applicable law or separate notices.
+
+"Proprietary Components" means any paid, private, enterprise, internal, hosted, SaaS, managed, unpublished, or separately licensed modules, services, connectors, datasets, branding packages, or commercial extensions related to this project that are not included in this repository.
+
+"Commercial Use" means use intended for or connected to revenue generation, paid services, client delivery, internal business operations, resale, SaaS offering, hosting for third parties, white-label distribution, or any production environment used by a company, organization, or public institution.
+
+3. License Grant for Community Components
+
+Subject to the terms of this license, permission is granted to:
+
+- use the Community Components for personal, educational, evaluation, testing, and internal non-commercial purposes;
+- copy and modify the Community Components;
+- distribute original or modified versions of the Community Components, provided that this license and copyright notice are preserved.
+
+4. Conditions
+
+You must:
+
+- retain this license text and all copyright notices in any substantial redistribution;
+- clearly indicate when you have modified the original code;
+- not misrepresent modified versions as the official version of the project;
+- comply with all third-party licenses applicable to dependencies or bundled assets.
+
+5. Commercial Restrictions
+
+Without prior written permission from the copyright holder, you may not:
+
+- use the project in production for Commercial Use;
+- offer the software as a hosted or managed service;
+- sublicense, sell, lease, or commercially distribute the project or modified versions of it;
+- use the project to provide services to clients or third parties for compensation;
+- embed the project in a commercial product, platform, or workflow intended for business operation or monetization.
+
+For commercial licensing, production authorization, dual licensing, OEM agreements, private deployments, white-label rights, or partnership discussions, contact:
+
+marcosmv022@gmail.com
+
+6. Open Core Reservation of Rights
+
+All rights in Proprietary Components are expressly reserved. No right or license is granted, whether expressly, implicitly, by estoppel, or otherwise, to any Proprietary Components, commercial editions, unpublished modules, trademarks, branding assets, hosted environments, or paid support offerings, except by a separate written agreement.
+
+7. Contributions
+
+Unless otherwise agreed in writing, any contribution intentionally submitted for inclusion in this repository is provided under the terms of this license, and you represent that you have the right to submit it.
+
+8. Trademarks and Branding
+
+This license does not grant permission to use the name of the project, the author's name, logos, trade dress, or branding assets for endorsement, marketing, or commercial identification without prior written permission.
+
+9. Termination
+
+This license terminates automatically if you fail to comply with its terms. Upon termination, you must stop using and distributing the project except to the extent that mandatory law requires otherwise.
+
+10. Disclaimer of Warranty
+
+THE COMMUNITY COMPONENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+11. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+12. Interpretation
+
+If any provision of this license is held unenforceable, the remaining provisions shall remain in effect to the maximum extent permitted by law.
+
+13. Commercial Contact
+
+For commercial permissions, exceptions, relicensing, or enterprise negotiation:
+
+marcosmv022@gmail.com

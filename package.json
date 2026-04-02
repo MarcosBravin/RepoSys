@@ -1,0 +1,36 @@
+{
+  "name": "reposicoes-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.19",
+    "@mui/material": "^5.14.20",
+    "@mui/x-data-grid": "^6.18.2",
+    "@mui/x-date-pickers": "^6.18.2",
+    "axios": "^1.6.2",
+    "date-fns": "^2.30.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "socket.io-client": "^4.6.1"
+  },
+  "scripts": {
+    "start": "npm run dev",
+    "client": "react-scripts start",
+    "server": "npm --prefix server run dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "build": "react-scripts build",
+    "install:all": "npm install && npm --prefix server install",
+    "setup": "npm run install:all"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+  },
+  "proxy": "http://localhost:3001"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "RepoSys",
+  "short_name": "RepoSys",
+  "description": "Sistema de gestão de reposições instalável como aplicativo.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0A0E1A",
+  "theme_color": "#0A0E1A",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
